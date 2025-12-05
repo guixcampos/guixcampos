@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2002.<br>📚 I'm currently learning Python and JavaScript.<br>🎯 Goals: Have my first job in the area.<br>🎲 Fun fact: ??.</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
