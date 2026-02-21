@@ -15,7 +15,3 @@ Estou constantemente em busca de novos conhecimentos e experiências que me ajud
 </div>
 
 ###
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6905121" style='border:none;'></iframe>
-
-###
